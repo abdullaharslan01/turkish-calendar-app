@@ -97,11 +97,11 @@ def calculate_animal_year(birth_year):
 def main():
     st.set_page_config(
         page_title="12 Hayvanlı Türk Takvimi",
-        page_icon="🌙",
+        page_icon="☀️",
         layout="wide"
     )
     
-    st.title("🌙 12 Hayvanlı Türk Takvimi")
+    st.title("☀️ 12 Hayvanlı Türk Takvimi")
     
     st.markdown("""
     Bu kadim takvim sistemi Türk kavimlerinin özgün buluşudur ve M.Ö. 2367'de başlamıştır. 
