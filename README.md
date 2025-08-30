@@ -1,4 +1,4 @@
-# 🌙 12 Hayvanlı Türk Takvimi
+# ☀️ 12 Hayvanlı Türk Takvimi
 
 Tarih okurken bu takvimle karşılaştım ve doğum tarihime göre benim ve başkalarının hangi hayvan yılında doğduğunu hesaplayan bir web sitesi bulamadım, o yüzden kendim yaptım 😅
 
